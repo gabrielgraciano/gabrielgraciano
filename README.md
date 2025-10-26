@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓 Statistics undergraduate @ USP<br>🤖 Open to collaborate on DS/ML projects<br>🧮 Improving my algorithms & data structures<br>🐍 Currently learning: Python and SQL<br><br>
 
 
