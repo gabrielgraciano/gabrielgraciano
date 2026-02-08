@@ -1,7 +1,5 @@
 #  About Me:
-🎓 Statistics undergraduate @ USP<br>🤖 Open to collaborate on DS/ML projects<br>🧮 Improving my algorithms & data structures<br>🐍 Currently learning: Python and SQL<br><br>
-
-
+🎓 Statistics undergraduate @ USP<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-graciano-dias/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielgraciano@usp.br) 
 
